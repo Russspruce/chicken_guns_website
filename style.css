@@ -55,3 +55,7 @@ footer {
 .map {
   text-align: center;
 }
+
+.twitter-timeline {
+  height: 500px;
+}
