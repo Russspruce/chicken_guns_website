@@ -1,0 +1,57 @@
+body {
+  background-color: #3B653D;
+  color: white;
+  font-family: "Eraser";
+}
+
+.cart-header {
+  margin-top: 30px;
+  height: 400px;
+  background: url(https://cdn0.vox-cdn.com/thumbor/5vNoZXdwj808wyxxmH30XpvVqaQ=/0x33:838x504/1310x737/cdn0.vox-cdn.com/uploads/chorus_image/image/46525462/chickenandgunsfb.0.0.jpg)center center no-repeat scroll;
+}
+
+.tagline {
+  color: white;
+  font-family: 'Shrikhand', cursive;
+  font-size: 5em;
+}
+
+.img-circle {
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+
+}
+
+.menu {
+  text-align: center;
+}
+footer {
+  margin-left: 50px;
+}
+
+.menu_choices {
+  font-family: 'Eraser';
+}
+
+@font-face {
+  font-family: 'Eraser';
+  src: url("Eraser.ttf"),
+  url("Eraser.eot");
+}
+
+.choice {
+  font-size: 1.5em;
+}
+
+.menu_title {
+  font-size: 3em;
+}
+
+.navbar-brand {
+  float: right;
+}
+
+.map {
+  text-align: center;
+}
