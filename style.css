@@ -59,3 +59,11 @@ footer {
 .twitter-timeline {
   height: 500px;
 }
+
+#email_send a{
+  color: #d3d3d3;
+}
+
+#email_send a:hover {
+  color: #d0d0d0;
+}
